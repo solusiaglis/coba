@@ -1,0 +1,2 @@
+ini adalah file 4
+tambah baris 2 di file 4
